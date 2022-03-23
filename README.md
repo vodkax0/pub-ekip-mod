@@ -39,10 +39,4 @@
 
 📌 Diğer ayarlarıda doğru bir şekilde girerek bu kısmıda başarıyla tamamlaya bilirsiniz!
 
-# ⚡ İletişim
-### Eğer bir hatayla karşılaşıyor veya botunuzu kurmakta sorun yaşıyorsanız aşağıdaki bağlantılardan bana ulaşabilirsiniz :
-* [Discord Sunucum](https://discord.gg/MTNkXHnX3b)
-* [Ana Hesabım](https://discord.com/users/624914071984013313)
-* [Yan Hesabım](https://discord.com/users/809325505304068096)
-
 ## Önemli: Proje MIT lisansına sahiptir ve projenin dosyalarının izin alınmadan paylaşılması, satılması  veya benzeri durumlar kesinlikle yasaktır. Böyle bir durumun yaşanması sonucunda bundan sorumlu şahıs(lar)a gerekli işlemler yapılacaktır!
