@@ -22,7 +22,7 @@ moment.locale('tr');
 module.exports = {
   
   name: 'eval',
-  aliases: ['evaluate', 'vortex'],
+  aliases: ['evaluate', 'evals'],
   category: 'Developer',
   usage: '<Code>', 
   developer: true,
