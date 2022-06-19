@@ -1,27 +1,27 @@
 {
-  "name": "anarchy-moderation",
+  "name": "vodka-moderation",
   "version": "1.0.0",
   "description": "Gelişmiş Discord Moderasyon Botu",
-  "main": "anarchy.js",
+  "main": "vodka.js",
   "scripts": {
-    "test": "node anarchy.js",
+    "test": "node vodka.js",
     "lint": "eslint src",
     "lint:fix": "eslint src --fix",
     "prettier": "prettier --write src/**/*.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AnarchyX0/pub-ekip-mod/discord-moderation-bot.git"
+    "url": "git+https://github.com/vodkax0/pub-ekip-mod/discord-moderation-bot.git"
   },
   "keywords": [
     "node"
   ],
-  "author": "Anarchy",
+  "author": "vodka",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AnarchyX0/pub-ekip-mod/issues"
+    "url": "https://github.com/vodkax0/pub-ekip-mod/issues"
   },
-  "homepage": "https://github.com/AnarchyX0/pub-ekip-mod#readme",
+  "homepage": "https://github.com/vodkax0/pub-ekip-mod#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "fs": "0.0.1-security",
